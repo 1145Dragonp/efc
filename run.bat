@@ -1,1 +1,1 @@
-D:/pyt/python-3.10.11-embed-amd64/python.exe d:/efc/main.py
+python main.py
