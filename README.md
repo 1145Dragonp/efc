@@ -1,2 +1,2 @@
-# efc
-easy remote command
+# 简易远控
+
